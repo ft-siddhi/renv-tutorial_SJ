@@ -4,3 +4,12 @@ format: html
 editor: visual
 ---
 
+```{r}
+library(HistData)
+```
+
+```{r}
+data(Nightingale)
+df <- Nightingale
+```
+
